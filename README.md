@@ -5,7 +5,7 @@ Repositório para armazenar práticas de HTML, JavaScript, CSS entre outras ling
 [Utilizarei o Visual Studio Code para fazer todos os códigos](https://code.visualstudio.com)
 
 ## 💻 Resumo
-| Aula | assuntos |
+| Aula | Tópicos |
 |--------|----------| 
 |1|JavaScript, HTML, CSS
 |1|Página Simples
@@ -13,4 +13,4 @@ Repositório para armazenar práticas de HTML, JavaScript, CSS entre outras ling
 |1|Página HTML5 responsiva
 |1|HTML -> <! -- para fazer comentários>
 |1|JavaScript -> //para comentários com uma linha /*para comentários com múltiplas linhas
-|1|Exercício 2, 3 e App.Js são referentes à aula 1
+|1|Exercício 2, 3 e App.Js
