@@ -23,16 +23,7 @@ Site em um dispositivo menor, como por exemplo um celular:
   <img src="assets/img/projeto-portfolio-responsive.PNG" alt="Site do Discord em um dispositivo menor, como por exemplo um celular">
 </div>
 
-- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-portfolio-html-css-js/)
-
-## ⚙ Execução desse projeto:
-1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
-2. **GitHubPages:** pode também acessar o projeto nesse [link](https://marcoswinther.github.io/project-portfolio-html-css-js/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
-
-## 🤔 O que foi feito de diferente nesse projeto:
-- O fundo do projeto utilizei CSS Paterns do site [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/);
-- Coloquei minhas informações de contato e profissionais, idiomas, cursos e projetos do meu GitHub.
-
 ## 📌 Créditos
+- Acesse os créditos do projeto acessando (criador) [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-portfolio-html-css-js/)
 - **Assets:** Disponível no protótipo do Figma disponibilizado no curso.
 - **CSS Patterns:** Disponível no site [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
