@@ -14,3 +14,4 @@ Repositório para armazenar práticas de HTML, JavaScript, CSS entre outras ling
 |1|HTML -> <! -- para fazer comentários>
 |1|JavaScript -> //para comentários com uma linha /*para comentários com múltiplas linhas
 |1|Exercício 2, 3 e App.Js
+|2,3| Projeto Portfolio.
