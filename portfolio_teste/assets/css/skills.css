@@ -1,0 +1,40 @@
+.skills {
+   display: flex;
+   flex-direction: column;
+}
+
+
+.skills .tools ul, .skills .personal ul {
+   list-style-type: disc; /* Adiciona marcadores de lista (pontos) */
+   margin-left: 20px; /* Indenta a lista para a esquerda */
+   padding-left: 20px; /* Espaçamento interno da lista */
+}
+
+.skills .tools ul li, .skills .personal ul li {
+   margin-bottom: 8px; /* Adiciona espaçamento entre os itens da lista */
+}
+
+/* Remova ou comente as linhas abaixo que estão no seu CSS atual */
+.skills .tools ul, .skills .personal ul {
+   /* display: flex; REMOVA ESSA LINHA */
+   /* flex-direction: row; REMOVA ESSA LINHA */
+   /* justify-content: flex-start; REMOVA ESSA LINHA */
+   /* align-items: center; REMOVA ESSA LINHA */
+   /* flex-wrap: wrap; REMOVA ESSA LINHA */
+   margin: 0;
+   padding: 0;
+}
+
+.skills .personal ul li {
+   margin-left: 2rem;
+   padding: .5rem;
+}
+
+@media only screen and (min-width: 768px) {
+
+   .skills {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+   }
+   
+}
